@@ -16,7 +16,7 @@ module.exports = {
   | Function - Receives the current origin and should return one of the above values.
   |
   */
-  origin: "http://localhost:3000",
+  origin: "https://sad-ride-9c5e4a.netlify.app/",
   /*
   |--------------------------------------------------------------------------
   | Methods
