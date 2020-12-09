@@ -18,3 +18,4 @@ const Route = use("Route");
 
 require("./routes/message");
 require("./routes/user");
+Route.get('/', () => 'Hello Adonis')
