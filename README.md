@@ -1,4 +1,5 @@
 # Adonis fullstack application
+# To run locally, type npx adonis migration:run and adonis serve --dev to start up the DB and server
 
 This is the fullstack boilerplate for AdonisJs, it comes pre-configured with.
 
